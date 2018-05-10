@@ -5,10 +5,12 @@
   "main": "index.js",
   "author": "Ankush",
   "license": "ISC",
-  "peerDependencies": {},
-  "dependencies": {
+  "peerDependencies": {
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-router-native": "^4.2.0"
+  },
+  "dependencies": {
+    
   }
 }
